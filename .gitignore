@@ -1,0 +1,19 @@
+.env
+credentials.json
+gcp-oauth.keys.json
+token.json
+token*.json
+oauth*.json
+*.pem
+*.sqlite
+*.db
+chroma_db/
+*.zip
+.DS_Store
+threads.json
+__pycache__/
+.venv/
+
+# Gmail OAuth tokens
+.gmail-mcp/
+.g_mail_mcp/
